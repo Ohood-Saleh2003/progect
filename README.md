@@ -1,4 +1,3 @@
-# project
 ## 1- Write an algorithm for operating servo motors to drive the robot :
 ### Circuit programming code:
 ![لقطة شاشة 2024-07-08 174559](https://github.com/Ohood-Saleh2003/project/assets/173670281/04868f83-9995-49cb-8ade-8b8b5bfd1da1)
